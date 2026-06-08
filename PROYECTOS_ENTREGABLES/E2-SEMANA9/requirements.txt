@@ -1,0 +1,8 @@
+
+#Para instalar las paquetes ingresar en la terminal:
+#OPC1: pip install opencv-python mediapipe==0.10.14 numpy pymsgbox
+#OPC2: pip install -r requirements.txt
+opencv-python
+mediapipe==0.10.14
+numpy
+pymsgbox
